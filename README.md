@@ -1,0 +1,2 @@
+# 8-Puzzle-Solver
+An instance of the 8-puzzle game consists of a board holding 8 distinct movable tiles, plus an empty space. For any such board, the empty space may be legally swapped with any tile horizontally or vertically adjacent to it. In this assignment, the blank space is going to be represented with the number 0. Given an initial state of the board, the search problem is to find a sequence of moves that transitions this state to the goal state that is the configuration with all tiles arranged in ascending order 0,1,2,3,4,5,6,7,8 .
